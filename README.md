@@ -15,3 +15,6 @@ For the Python Assignment when I was in school, I decided to make a Telltale bas
 - [Python 3 - String len() Method](https://www.tutorialspoint.com/python3/string_len.html)
 - [Python Program to check user input is a number or string](https://pynative.com/python-check-user-input-is-number-or-string/)
 - [Create a typewriter-effect animation for strings in Python](https://stackoverflow.com/questions/19911346/create-a-typewriter-effect-animation-for-strings-in-python)
+
+# License
+MIT © 2022 bl13pbl03p
