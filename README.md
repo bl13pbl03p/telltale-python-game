@@ -17,4 +17,4 @@ For the Python Assignment when I was in school, I decided to make a Telltale bas
 - [Create a typewriter-effect animation for strings in Python](https://stackoverflow.com/questions/19911346/create-a-typewriter-effect-animation-for-strings-in-python)
 
 ## License
-MIT © 2022 bl13pbl03p
+[MIT](https://github.com/bl13pbl03p/telltale-python-game/blob/main/LICENSE) © 2022 [bl13pbl03p](https://github.com/bl13pbl03p)
