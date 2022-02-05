@@ -4,11 +4,11 @@ For the Python Assignment when I was in school, I decided to make a Telltale bas
 In the zip packet I also added a video of the demo, in case it does not work somehow.
 
 **Get started**
-Retrieve the script with `git clone`
+Retrieve the script with `git clone https://github.com/bl13pbl03p/telltale-python-game.git`
 
-Retrieve all the used modules with `pip3 install -m`
+Retrieve all the used modules with `pip3 install -m requirements.txt`
 
-Run the script with the command
+Run the script with the command `python3 PythonAssignment.py`
 
 **What I wanted to add**
 - Time limit for an answer
